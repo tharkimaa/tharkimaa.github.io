@@ -1,0 +1,82 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.whisperingwalls.in" resolutions="1x" timestamp="1504859542486">
+  <folder name="fonts">
+    <file name="bodonisvtytwoitctt-bold.woff" crc="147929024"/>
+    <file name="bodonisvtytwoitctt-bold.eot" crc="419218662"/>
+    <file name="avenir-next-regular.woff" crc="3953421108"/>
+    <file name="avenir-next-regular.eot" crc="4259969483"/>
+  </folder>
+  <folder name="images">
+    <file name="img_0965-crop-u337.jpg" crc="20782095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0983358x323.jpg" crc="445417716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1000508x339.jpg" crc="406073473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0837-crop-u329.jpg" crc="4174690663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0974-crop-u344.jpg" crc="4186411697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset-2.svg" crc="376670298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 2_poster_.png" crc="3789866828" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_0965246x370.jpg" crc="4245211275" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0983239x215.jpg" crc="464064048" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1000418x279.jpg" crc="276540764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0837375x250.jpg" crc="4161965230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0974-crop-u3442.jpg" crc="4107916007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0965285x427.jpg" crc="4103018921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0983280x253.jpg" crc="525504902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1000283x189.jpg" crc="4024497831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0974-crop-u3443.jpg" crc="3769742030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0837282x188.jpg" crc="4288812251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="330520404" ref="index"/>
+    <file name="nomq_index.css" crc="4036192022" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u205.php" crc="459934816" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4245070271" seo="true" mt="1504858535638" redirect="true"/>
+</manifest>
