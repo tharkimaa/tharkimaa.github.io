@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.whisperingwalls.in" resolutions="1x" timestamp="1504862985045">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.whisperingwalls.in" resolutions="1x" timestamp="1504863385594">
   <folder name="fonts">
     <file name="bodonisvtytwoitctt-bold.woff" crc="147929024"/>
     <file name="bodonisvtytwoitctt-bold.eot" crc="419218662"/>
@@ -61,8 +61,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4108179360" ref="index"/>
-    <file name="nomq_index.css" crc="428119389" ref="index"/>
+    <file name="index.css" crc="466116763" ref="index"/>
+    <file name="nomq_index.css" crc="3889543283" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -78,5 +78,5 @@
     <file name="form-u205.php" crc="459934816" ref="index"/>
     <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
   </folder>
-  <file name="index.html" crc="4112026759" seo="true" mt="1504862954057" redirect="true"/>
+  <file name="index.html" crc="468558615" seo="true" mt="1504863360374" redirect="true"/>
 </manifest>
